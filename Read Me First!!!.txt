@@ -1,0 +1,30 @@
+Project Galaxian Fighter Prototype Build!
+
+How To Play:
+W-Forward Thrust
+S-Backward Thrust
+D-Turn Right
+A-Turn Left
+
+Space-Shoot
+
+The Goal is to destroy all enemy fighters.
+
+
+*Note that this is not even close to a final product, please provide feedback so I can adjust Gameplay accordingly.
+I would like some input on certain features that you would like to see added, and adjustments.
+
+Things I would to hear about:
+
+-Enemy difficulty
+-Speed
+-Level difficulty
+-Shooting
+-Weapons
+-AI
+-Level Ideas
+-Ship Ideas
+
+Please send any feedback to rufhinator@hotmail.com, It would be greatly appreciated,
+
+Cheers!
