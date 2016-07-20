@@ -12,6 +12,7 @@ The Goal is to destroy all enemy fighters.
 
 
 *Note that this is not even close to a final product, please provide feedback so I can adjust Gameplay accordingly.
+To start just run the .exe File.
 I would like some input on certain features that you would like to see added, and adjustments.
 
 Things I would to hear about:
@@ -26,5 +27,4 @@ Things I would to hear about:
 -Ship Ideas
 
 Please send any feedback to rufhinator@hotmail.com, It would be greatly appreciated,
-
 Cheers!
